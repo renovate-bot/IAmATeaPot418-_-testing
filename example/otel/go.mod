@@ -10,7 +10,7 @@ replace github.com/go-redis/redis/extra/rediscmd/v9 => ../../extra/rediscmd
 
 require (
 	github.com/go-redis/redis/extra/rediscmd/v9 v9.0.0-beta.1 // indirect
-	github.com/go-redis/redis/extra/redisotel/v9 v9.0.0-beta.1
+	github.com/go-redis/redis/extra/redisotel/v9 v9.7.0
 	github.com/go-redis/redis/v9 v9.0.0-beta.1
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.3 // indirect
 	github.com/uptrace/opentelemetry-go-extra/otelplay v0.1.14
